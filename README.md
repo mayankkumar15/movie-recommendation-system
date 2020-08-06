@@ -1,5 +1,5 @@
 # movie-recommendation-system
-This is a movie recommendation system that uses different methods to recommend movies based on a criterion or a movie. The dataset used is [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata) available on kaggle.
+This is a movie recommendation system that uses different machine learning and data science methods like tf-idf and cosine similarity to recommend movies based on a criterion or a movie. The dataset used is [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata) available on kaggle.
 The working and the code has been explained in [Recommender.ipynb](Recommender%20system.ipynb)
 
 Requisites:
